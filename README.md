@@ -19,7 +19,6 @@ In my testing, the recommender ended up recommending team compositions with abou
 - Players don't always play optimally. Since the goal of the system was to recommend the optimal setup, there's no real way to know if the recommendation was more effective than the real game without online play, which would come with a whole host of new challenges (that I would love the chance to work on one day).
 
 
-[//]: # Links:
 
    [Kaggle]: <https://www.kaggle.com/mariuszmackowski/teamfight-tactics-fates-challenger-euw-rank-games>
    [Riot Games]: <https://teamfighttactics.leagueoflegends.com/en-us/>
